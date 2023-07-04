@@ -1,0 +1,55 @@
+.tittle{
+    font-size: 200px;
+    color: grey;
+    
+    
+}
+
+.form{
+    font-size: 20px;
+    margin-left: 750px;
+    
+}
+
+.in1{ 
+    border: 10px;
+    
+}
+
+.href{
+    font-size: 50px;
+}
+
+.navi{
+    background-color: black;
+    height: 90px;
+}
+
+.butbut{
+    text-decoration: none;
+    padding : 0 0 0px;
+    font-size: 30px;
+
+}
+
+.butbut:hover{
+    color: orangered;
+}
+
+body{
+    background-color:yellow ;
+}
+
+.juljul{
+    color: white;
+    font-size: 35px;
+    margin-top: 10px;
+    height: 15px;
+    font-size: 20px;
+}
+
+.href{
+    color: antiquewhite;
+    font-size: 20px;
+    
+}
